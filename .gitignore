@@ -1,3 +1,4 @@
 myignore.txt
 local_test
-*.txt
+myignore.txt
+hello.txt
